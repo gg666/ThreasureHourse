@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-login
+user
 </body>
 </html>
